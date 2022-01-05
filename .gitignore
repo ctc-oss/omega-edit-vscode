@@ -1,0 +1,6 @@
+.idea
+.local
+*.log
+*.vsix
+out
+node_modules
