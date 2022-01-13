@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-    <img alt="Omega Edit Logo" src="./images/OmegaEditLogo.png" width=120>
+  <img alt="Omega Edit Logo" src="https://raw.githubusercontent.com/Shanedell/omega-edit-vscode/master/images/OmegaEditLogo.png" width=120>
 </p>
 
 <h1>Ωedit Edit for VS Code</h1>
@@ -22,7 +22,7 @@ Example VS Code plugin that uses embedded [Omega Edit](https://github.com/ctc-os
 - Click the play button with `Extension` select
   - this causes the extension to launch
 
-<img src="./images/BuildLaunch.gif" />
+<img alt="Build Launch GIF" src="https://raw.githubusercontent.com/Shanedell/omega-edit-vscode/master/images/BuildLaunch.gif">
 
 ### Show Extension
 
