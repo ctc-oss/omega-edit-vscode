@@ -19,7 +19,9 @@
     "compile": "tsc -p ./",
     "watch": "webpack --watch --devtool nosources-source-map --info-verbosity verbose --config ./build/ext.webpack.config.js",
     "watch2": "tsc -watch -p ./",
-    "lint": "yarn run prettier src -c"
+    "lint": "yarn run prettier src -c",
+    "pretest": "yarn run compile",
+    "test": "node node_modules/mocha/bin/_mocha -u tdd --timeout 999999 --colors ./out/tests"
   },
   "dependencies": {},
   "devDependencies": {
