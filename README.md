@@ -6,6 +6,8 @@
 <h1>Ωedit Edit for VS Code</h1>
   
 ![CodeQL](https://github.com/ctc-oss/omega-edit-vscode/workflows/CodeQL/badge.svg)
+![Linting](https://github.com/ctc-oss/omega-edit-vscode/workflows/Linting/badge.svg)
+![Unit Tests](https://github.com/ctc-oss/omega-edit-vscode/workflows/Unit%20Tests/badge.svg)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/ctc-oss/omega-edit-vscode.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ctc-oss/omega-edit-vscode/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ctc-oss/omega-edit-vscode.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ctc-oss/omega-edit-vscode/context:javascript)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fctc-oss%2Fomega-edit-vscode.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fctc-oss%2Fomega-edit-vscode?ref=badge_shield)
