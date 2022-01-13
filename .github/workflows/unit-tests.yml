@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2.3.5
       - name: Setup Node
-        uses: actions/setup-node@v1.4.6
+        uses: actions/setup-node@v2.5.1
         with:
           node-version: '14'
       - name: Install packages
