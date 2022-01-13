@@ -4,6 +4,10 @@
 </p>
 
 <h1>Ωedit Edit for VS Code</h1>
+  
+![CodeQL](https://github.com/ctc-oss/omega-edit-vscode/workflows/CodeQL/badge.svg)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/ctc-oss/omega-edit-vscode.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ctc-oss/omega-edit-vscode/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ctc-oss/omega-edit-vscode.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ctc-oss/omega-edit-vscode/context:javascript)
 
 </div>
 
