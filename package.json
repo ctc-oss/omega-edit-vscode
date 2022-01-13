@@ -16,10 +16,12 @@
   "scripts": {
     "vscode:prepublish": "tsc -p ./",
     "package": "vsce package",
-    "compile": "tsc -watch -p ./"
+    "compile": "tsc -p ./",
+    "watch": "webpack --watch --devtool nosources-source-map --info-verbosity verbose --config ./build/ext.webpack.config.js",
+    "watch2": "tsc -watch -p ./",
+    "lint": "yarn run prettier src -c"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/glob": "^7.1.3",
     "@types/mocha": "^8.2.2",
@@ -31,7 +33,8 @@
     "eslint-config-prettier": "^8.3.0",
     "glob": "^7.1.6",
     "mocha": "^8.3.2",
-    "omega-edit": "0.6.2-2",
+    "node-loader": "^1.0.0",
+    "omega-edit": "0.6.3-8",
     "prettier": "^2.3.2",
     "ts-loader": "^8.1.0",
     "typescript": "^4.2.3",
