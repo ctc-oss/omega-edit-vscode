@@ -1,5 +1,3 @@
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fctc-oss%2Fomega-edit-vscode.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fctc-oss%2Fomega-edit-vscode?ref=badge_shield)
-
 <div align="center">
 <p>
   <img alt="Omega Edit Logo" src="https://raw.githubusercontent.com/Shanedell/omega-edit-vscode/master/images/OmegaEditLogo.png" width=120>
