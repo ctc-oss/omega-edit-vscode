@@ -1825,10 +1825,10 @@ object-inspect@^1.9.0:
   resolved "https://registry.yarnpkg.com/object-inspect/-/object-inspect-1.12.0.tgz#6e2c120e868fd1fd18cb4f18c31741d0d6e776f0"
   integrity sha512-Ho2z80bVIvJloH+YzRmpZVQe87+qASmBUKZDWgx9cu+KDrX2ZDH/3tMy+gXbZETVGs2M8YdxObOh7XAtim9Y0g==
 
-omega-edit@0.6.3-8:
-  version "0.6.3-8"
-  resolved "https://registry.yarnpkg.com/omega-edit/-/omega-edit-0.6.3-8.tgz#2ae22f74ee6e1a29d720e11c1005a9066e41b988"
-  integrity sha512-VCehAwUnfS80DaxffvJkBKY934pPOrUaJm+M92yrYFVGllFcExmOQRiyhsda3WKbqAtk3rWoUgxAjCQGWK14Mg==
+omega-edit@0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/omega-edit/-/omega-edit-0.8.1.tgz#7bcf2be381f8bf58b672d21bfb0e9e6c75c2c215"
+  integrity sha512-sOLRLqRNPHOXeJvTjgjKbl1kRbqQIa/xyCuQalQxUqMpdXYAWx2zqXOMWnMsyWbpGJ2y616mhkcCqSq/z8fqug==
 
 once@^1.3.0, once@^1.3.1, once@^1.4.0:
   version "1.4.0"
